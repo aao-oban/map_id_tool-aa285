@@ -1,6 +1,6 @@
 # map_id_tool for AAO 2.8.5
 
-**map_id_tool is a mutator designed for AAO 2.8.5 servers.**
+**"map_id_tool" is a mutator designed for AAO 2.8.5 servers.**
 
 **Its purpose is to help players to accurately identify the map that is running on a server in order to download the correct map and thus avoid the DCDS message**
 
