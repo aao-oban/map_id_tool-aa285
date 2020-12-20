@@ -14,7 +14,7 @@ map_id_tool works in conjunction with the server browser and also with the Dodge
 
 ## How to install map_id_tool on your server?
 
-- **STEP 1**  Get a copy of the **map_id_tool.u** file [Download Here](https://github.com/aao-oban/map_id_tool-aa285).
+- **STEP 1**  Get a copy of the **map_id_tool.u** file [Download Here v1.0](https://bit.ly/3h1MuZW).
 - **STEP 2**  Copy the **map_id_tool.u** file to the **system** folder of your server
 - **STEP 3**  Stop your server and start it adding the parameter **?Mutator=map_id_tool.map_id_tool** as shown in the following example
 
