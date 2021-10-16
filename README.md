@@ -16,7 +16,7 @@ map_id_tool works in conjunction with the server browser and also with the Dodge
 
 **NOTE: If you already have Tadmin installed on your server, you do not need to install this tool since Tadmin has it integrated**
 
-- **STEP 1**  Get a copy of the **map_id_tool.u** file [Download Here v1.0](https://bit.ly/3h1MuZW).
+- **STEP 1**  Get a copy of the **map_id_tool.u** file [Download Here v2.0](https://bit.ly/2Z3wgef).
 - **STEP 2**  Copy the **map_id_tool.u** file to the **system** folder of your server
 - **STEP 3**  Stop your server and start it adding the parameter **?Mutator=map_id_tool.map_id_tool** as shown in the following example
 
